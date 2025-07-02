@@ -26,7 +26,7 @@ bash
 Copy
 Edit
 # Clone the repo
-git clone https://github.com/your-username/bookstore-admin.git
+git clone https://github.com/shrikeey3727/bookstore-admin.git
 
 # Navigate to frontend
 cd client
@@ -37,5 +37,6 @@ npm start
 cd server
 npm install
 npm run dev
+
 📌 Note
 Make sure to configure your environment variables (.env) for MongoDB URI
