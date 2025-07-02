@@ -22,19 +22,18 @@ Authentication: Bcrypt
 State Management: Redux / Context API
 
 🚀 Getting Started
-
-Clone the repo
+📦 Clone the Repository
 git clone https://github.com/shrikeey3727/bookstore-admin.git
 
-Navigate to frontend
+💻 Setup Frontend
 cd client
 npm install
 npm start
+🖥️ Setup Backend
 
-Navigate to backend
 cd server
 npm install
-npm run dev
+npm run dev(or Npx nodemon app.js)
 
 📌 Note
 Make sure to configure your environment variables (.env) for MongoDB URI
