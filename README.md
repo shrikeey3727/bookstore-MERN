@@ -22,18 +22,16 @@ Authentication: Bcrypt
 State Management: Redux / Context API
 
 🚀 Getting Started
-bash
-Copy
-Edit
-# Clone the repo
+
+Clone the repo
 git clone https://github.com/shrikeey3727/bookstore-admin.git
 
-# Navigate to frontend
+Navigate to frontend
 cd client
 npm install
 npm start
 
-# Navigate to backend
+Navigate to backend
 cd server
 npm install
 npm run dev
